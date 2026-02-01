@@ -1,5 +1,5 @@
-# M5StickC-PLUS2-chaos
-# M5-CHAOS: Multi-Tool Security Research Platform
+# M5-CHAOS: 
+# Multi-Tool Security Research Platform
 
 ![Version](https://img.shields.io/badge/version-1.1-blueviolet)
 ![License](https://img.shields.io/badge/license-MIT-green)
